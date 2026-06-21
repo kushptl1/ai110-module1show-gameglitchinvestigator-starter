@@ -63,9 +63,9 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 ## 🧪 Test Results
 
 ```
- python3 -m pytest tests/ -q
-.........                                                                                                                                                                [100%]
-9 passed in 0.01s
+python3 -m pytest tests/ -q                                             
+..................                                                                                                                                                                            [100%]
+18 passed in 0.02s
 ```
 
 
